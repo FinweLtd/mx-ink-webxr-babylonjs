@@ -1,6 +1,12 @@
 # mx-ink-webxr-babylonjs
 A WebXR painting application using Babylon.js, allowing users to paint in 3D space with various input devices.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2acb441-62ce-4aa7-a44c-b34efcccccd2" alt="Screenshot 2024-12-11 161513" width="300">
+  <img src="https://github.com/user-attachments/assets/5477be19-e1d4-48ae-914e-0a75f4150509" alt="Screenshot 2024-12-11 162343" width="300">
+  <img src="https://github.com/user-attachments/assets/0aa5ee0d-02d8-40eb-8e9c-d02a93d374d4" alt="Screenshot 2024-12-11 162024" width="300">
+</p>
+
 ## Acknowledgements 
 
 The project is setup on this sample project https://github.com/RaananW/babylonjs-webpack-es6
