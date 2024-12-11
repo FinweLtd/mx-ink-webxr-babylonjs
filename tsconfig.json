@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "module": "esNext",
+        "target": "es2021",
+        "moduleResolution": "node",
+        "strict": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "skipLibCheck": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "rootDir": "src",
+        "esModuleInterop": true,
+        "allowJs": true,
+    },
+    "exclude": [
+        "node_modules",
+        "dist",
+        "webpack.dev.js",
+        "webpack.prod.js",
+        "webpack.common.js",
+        "tsconfig.json",
+        "webpack.dev.js",
+        "public",
+    ]
+}
