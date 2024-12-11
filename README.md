@@ -16,6 +16,8 @@ The project is a Babylon.js port of this Three.js project https://github.com/fco
 TubePainter class is ported from this Three.js example https://github.com/mrdoob/three.js/blob/3716f3ea7ce57c191d42769936da3355ae2c6908/examples/jsm/misc/TubePainter.js
 
 ## Demo
+http://bit.ly/3OOoT0j (shortened URL)
+
 https://finweltd.github.io/mx-ink-webxr-babylonjs/
 
 Features
