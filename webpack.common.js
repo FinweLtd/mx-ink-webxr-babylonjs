@@ -70,5 +70,10 @@ module.exports = {
             inject: true,
             template: path.resolve(appDirectory, "public/index.html"),
         }),
+        new CopyWebpackPlugin({
+            patterns: [
+                { from: path.resolve(appDirectory, "public/favicon.ico"), to: path.resolve("./dist/") }
+            ]
+        }),
     ],
 };
